@@ -12,7 +12,8 @@ tabla alojada en PostgreSQL (4 puntos)
 3. Capturar los posibles errores en una consulta SQL realizada con el paquete pg
 usando la sentencia try catch (2 puntos)
 
-Desarrollo:
+Las siguientes capturas muestran el manejo de errores mediante el bloque try-catch. Los mensajes son recibidos en el front pero generados en el Backend.
+
 ![screenshot](trycatch-1.jpg)
 ![screenshot](trycatch-2.jpg)
 ![screenshot](trycatch-3.jpg)
