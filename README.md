@@ -5,6 +5,6 @@ La red social “Like Me” está apenas iniciando el proceso de desarrollo, se 
 En este desafío serás un desarrollador full stack developer de la empresa “Like Me” y deberás crear un servidor que disponibilice las rutas GET y POST para consultas y guardar los posts en una base de datos PostgreSQL con el paquete pg
 
 Desarrollo:
-![screenshot](trycatch-1.JPG)
-![screenshot](trycatch-2.JPG)
-![screenshot](trycatch-3.JPG)
+![screenshot](trycatch-1.jpg)
+![screenshot](trycatch-2.jpg)
+![screenshot](trycatch-3.jpg)
